@@ -5,7 +5,9 @@
 ### **About:**
 I was instructed by my supervisor to scrap the song lyrics for Vietnamese songs. We needed a few hundred songs so it is not feasible to manually download the songs. I found this program and made some changes to it to suit my needs, where I can save the songs as text files into specific folders of the song artist name, instead of just printing them out onto the console.
 
-# Setup
+## **This part below was taken from @devlocalhost on Github and all credit goes to this user.**
+
+## **Setup**
 
 First, you will need to get an **access token** to use pylyrical by [creating a client](https://genius.com/api-clients), clicking **Generate Access Token** and copying the token. After that, you will need to paste it on line 15 on the "pylyrical.py" file. (*you need to replace "S3CR3T0K3N" of course*)
 
